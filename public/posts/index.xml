@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gong Blog</title>
-    <link>https://longshou.github.io/</link>
-    <description>Recent content on Gong Blog</description>
+    <title>Posts on Gong Blog</title>
+    <link>https://longshou.github.io/posts/</link>
+    <description>Recent content in Posts on Gong Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 03:27:32 +0200</lastBuildDate>
-    <atom:link href="https://longshou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://longshou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How_to_post</title>
       <link>https://longshou.github.io/posts/how_to_post/</link>
