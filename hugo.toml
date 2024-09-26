@@ -1,0 +1,4 @@
+baseURL = 'https://longshou.github.io/'
+languageCode = 'en-us'
+title = 'Gong Blog'
+theme = "paper"
